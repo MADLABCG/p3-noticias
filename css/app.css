@@ -82,3 +82,18 @@ body {
 .titulo_crooked {
   transform: rotate(-30deg);
 }
+
+.noticias {
+  font-size: 20px;
+  font-family: Helvetica, sans-serif;
+  text-align: justify;
+  padding: 20px;
+}
+
+.lista_ordenada {
+  font-size: 20px !important;
+  font-family: Helvetica, sans-serif !important;
+  text-align: justify !important;
+  line-height: 130% !important;
+  padding-bottom: 15px !important;
+}
