@@ -41,3 +41,7 @@
 - [Travel](http://rss.cnn.com/rss/edition_travel.rss)
 - [Video](http://rss.cnn.com/rss/cnn_freevideo.rss)
 - [Most Recent](http://rss.cnn.com/rss/cnn_latest.rss)
+
+## Herramienta de Crear Widget para RSS Gratis
+
+- [SociableKit](https://www.sociablekit.com/)
